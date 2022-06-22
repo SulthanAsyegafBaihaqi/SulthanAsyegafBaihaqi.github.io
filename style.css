@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#Project {
+  background-color: #e2edff;
+}
+
+#aplikasi {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  padding-top: 5rem;
+}
+
+.navbar {
+  font-family: "Times New Roman", Times, serif;
+}
